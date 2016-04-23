@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: 'We work within your budget, recommend where you can save money and make sure your message reaches your target market. We offer advertising direction, exceptional creative design and meticulous technical ability. According to our clients we offer another benefit… success.'
-datePublished: '2016-04-23T17:26:38.912Z'
-dateModified: '2016-04-23T17:26:38.689Z'
+datePublished: '2016-04-23T18:52:13.561Z'
+dateModified: '2016-04-23T18:51:27.122Z'
 title: ''
 author: []
 sourcePath: _posts/2016-04-23-where-ideas-come-to-life.md
@@ -17,7 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
-starred: false
+starred: true
 url: where-ideas-come-to-life/index.html
 _type: WebPage
 
