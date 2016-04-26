@@ -4,21 +4,28 @@
         <description><![CDATA[Creative Effects Advertising Design Studio]]></description>
         <link>https://thegrid.ai/creativefx/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Apr 2016 03:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2016 03:26:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/creativefx/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<p>Creative Effects is a full service advertising studio. That means we can handle all aspects of the advertising process, including planning, design, production, and placement.</p>]]></description>
-            <link>https://thegrid.ai/creativefx/about-us/index.html</link>
-            <guid isPermaLink="false">a4659dcc-3c05-441d-820f-982175be0100</guid>
-            <pubDate>Tue, 26 Apr 2016 03:25:08 GMT</pubDate>
+            <title><![CDATA[Success for Sale]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3b3b7673-9ad3-4448-b8d7-5492b7e85b58.jpg">]]></description>
+            <link>https://thegrid.ai/creativefx/where-ideas-come-to-life/index.html</link>
+            <guid isPermaLink="false">66bbcec6-8fed-4cb2-b5a0-993fc8c035c9</guid>
+            <pubDate>Tue, 26 Apr 2016 03:25:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Capabilities]]></title>
             <description><![CDATA[<p>Success for Sale</p>]]></description>
             <link>https://thegrid.ai/creativefx/capabilities/index.html</link>
             <guid isPermaLink="false">858a8f84-5a75-43a8-91f0-10caa239bd84</guid>
-            <pubDate>Sat, 23 Apr 2016 17:36:50 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 03:25:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[About Us]]></title>
+            <description><![CDATA[<p>Creative Effects is a full service advertising studio. That means we can handle all aspects of the advertising process, including planning, design, production, and placement.</p>]]></description>
+            <link>https://thegrid.ai/creativefx/about-us/index.html</link>
+            <guid isPermaLink="false">a4659dcc-3c05-441d-820f-982175be0100</guid>
+            <pubDate>Tue, 26 Apr 2016 03:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
